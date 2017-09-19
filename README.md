@@ -1,5 +1,7 @@
 # Lazukr's Github Page
 
+Link is [here](https://lazukr.github.io/).
+
 ## Currently on this Page
 * [Minecraft SkyFactory 3 Tiered Calculator](https://github.com/lazukr/mcsf3query)
 
