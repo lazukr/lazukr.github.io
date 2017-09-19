@@ -1,4 +1,4 @@
-# Lazukr's Github Page
+# Lazukr's GitHub Page
 
 Link is [here](https://lazukr.github.io/).
 
